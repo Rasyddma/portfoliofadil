@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "eslint"
   },
+  
   "dependencies": {
     "@studio-freight/react-lenis": "^0.0.47",
     "clsx": "^2.1.1",
@@ -30,3 +31,4 @@
     "typescript": "^5"
   }
 }
+
